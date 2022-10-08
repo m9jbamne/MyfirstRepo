@@ -1,0 +1,66 @@
+HTTP METHOD
+TYPE
+URI
+BODY
+SUCCESS RESPONSE
+STATUS CODE
+COMMENTS
+FAILURE RESPONSE NA
+Validation
+Retums list of uses in a page
+2 represents page number Query parameter: page-2
+tests[ "Validating Status Code") = responsesCode.code = 200; tests "Validating response body") - response Body.has"data");
+GET
+https://regies.in/apl/users? page 2
+Retums Single user
+2 represents student id Path parameter: /2
+var response - JSON.parse(responseBody): var response JSON.parse(response Body); tests "Vestify firstname") - response.data.first_name testsVerify last name") - response.datalast_name =
+GET
+https://reqres.in/api/users/2
+"Janet"; "Weaver;
+20
+"name":"morpheus", "Job": "leader
+var response - JSON.parse(response Body); tests["name) - response.name= "morpheus"; tests ob") = response.job - "leader";
+POST
+https://regiss indaplusers
+"name": "morpheus, "Job": "leader, "id": "256",
+"created": "2018-0707T05:43:53.3 10Z
+tests("Validating Status Code") - responseCode.code =
+201;
+201
+Create Login Success
+NA
+"token": "QowLS
+4 Pngja7X
+tests ("Validating Status Code") - responseCode.code = 200; tests "Validating Token presence") - response Body. has("token");
+POST
+"email": "peterifaven", "password": "atysica"
+assinapidlogi
+)
+Login Uhsuccesul
+tests ["Validating Status Code") response Code.code -
+400;
+POST
+://regres./api/login
+Get all employee data Path parameter: /employee
+var response - JSON.parse(responseBody): tests "name" response.data1.employee_name su Garrett Winters":
+http://dummy se staplexample.com/
+M/employees
+10 a
+"email": "peteriidaven"
+"error": "Missing
+password d':"1","employee_name":"","em ployee_salary": "0","employee_age" :"0","profile_image":""},{"id":"2"," employee_name":"","employee sal ary:"","employee_age":"0","profil e_image":")) Kd":"700", "employee_name": 42 Git %305CRIPT%20a%3d%660%26gt %63%60%20 SRC%3d%5C%22http 926 58% 36%21%2tha%2646%3 bckes%25#45%3borg%2hess%26 #46%3b5965c%22%26gt%30%26 1936%21SCRIPT%26gt%3b","empi oyee_salary":"123","employee_age
+":"33",profile_image":> {"name":"test","salary":"12"name":"test","salary":"123', 'age" 22
+23 :1719" "name":"test1", "salary":"1 "name": testi","salary":"1123","a 122 :22)
+22 "success":{"text":"successfully!
+Get a single employee data Path parameter/employee/719
+GET
+http://dummy te staplexample.com/aM/employee/700
+200
+POST PUT
+http://dummy se staloxample.com/api//create http://dummy se staloxample.com/api/update/21
+Create new record in database Path parameter unde/719 Update an employee record Path parameter undsterlid). Delete an employee record
+200
+DELETE
+de
+momento

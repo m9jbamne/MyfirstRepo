@@ -1,0 +1,97 @@
+ 
+ 
+    
+ 
+
+ 
+ 
+
+frests{ "Vatidating Stam Code") = respanseCode.code == 200;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ceT = 1 moqres.in/aps)\sers?page=? jeests| “Validating response body") = response Body.has("dt"};
+GET | Jf qes.infags users!
+200
+|var response = JSON. parse|responseBody);
+jtests{ “name”) = response.name == “morpheus”;
+ost fonoss/mams inlacthners leests{ job") = sesponsejob == “leader”;
+eests{ "vaticating Stamss Code") = resporseCode.code = 201;
+21_|__cuuste
+Tage Success leeas] Vandsting Stauis Code") = responsetade cade == 200;
+Post fomos/mamsin/apiliogi ltests{ “Validating Token presence”) = sespanseBody.has{"toicert");
+2m.
+tog Unsuccoeth reas] Vandsting Stan Code") = respornsetnde.code == 400;
+
+ 
+
+Post foros://reqres.n/agviogn
+
+ 
+
+GET fita//dummy.mesapiexample.com/ api/\a/ employees
+
+ 
+
+Sas
+parameter: /empioyes
+
+[var response = JSON.parsciresponsefody),; =~=~*~<CS~S*S*«Y
+tests{ name”) = remoncedafa| 1 .employes_name == "Garett Virters";
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+20% |
+S angie employee dams
+parameter: /enpiayee/719
+GET prtpy//duenmy sesapiexamele com apif\vi/ employee! 700
+209
+
+Post frmoy/dummy x saplexamele com) api/vi/creste te eee
+put fitpy/dunny m: 2c 1 ee
+neve frtoy/dunmy 1 stapiexamete com apif/delete/700 aaLerpeee
+
+ 
+
+ 
+
+ 
+
+ 
+
